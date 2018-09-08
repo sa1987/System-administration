@@ -1,2 +1,2 @@
 # System-administration
-Python scripts related to python
+Python scripts related to Linux administration
